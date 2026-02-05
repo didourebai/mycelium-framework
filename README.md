@@ -71,6 +71,7 @@ Mycelium prioritizes **decision velocity** while ensuring transparency through l
 ### 3.4 Continuous Adaptation
 
 Governance is treated as a **living system**, continuously adapting through feedback loops, audits, and learning mechanisms as technologies, regulations, and organizational contexts evolve.
+<img width="1536" height="1024" alt="Designer (1)" src="https://github.com/user-attachments/assets/47812ddd-aa19-4168-890e-238fa25f5c96" />
 
 ---
 

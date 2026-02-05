@@ -1,2 +1,2 @@
-# mycelium-framework
-The Mycelium framework redefines digital transformation by using AI to simplify governance, modernize organizational structures, and reduce bureaucracy. It accelerates decision‑making, empowers teams, and strengthens transparency and traceability.
+# Mycelium Framework
+The Mycelium framework offers an innovative vision of digital transformation, where artificial intelligence is used not only to automate but also to simplify governance and modernize organizational structures. By directly addressing issues of bureaucracy and slow decision‑making, this approach helps unlock the potential of teams while strengthening transparency and traceability.
